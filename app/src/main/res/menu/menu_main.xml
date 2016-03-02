@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+      <item android:id="@+id/logout"
+            android:title="Refresh"
+            android:orderInCategory="100"
+            app:showAsAction="always"/>
+
+      <!--
+      <item android:id="@+id/historicalMessage"
+            android:title="Historical Message"
+            android:orderInCategory="90"
+            app:showAsAction="never"/>
+-->
+</menu>
